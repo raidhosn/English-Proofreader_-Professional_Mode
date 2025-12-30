@@ -1,0 +1,7 @@
+{
+  "name": "English Proofreader (Professional Mode)",
+  "description": "A professional-grade proofreading assistant that refines written content for clarity, precision, and coherence while preserving original meaning and intent.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
